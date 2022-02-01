@@ -1,6 +1,9 @@
 # vision_based_quality_control
  This is the source code for quality control of Vehicle identification number (VIN) using image processing algorithms
  
+# Purpose:
+VIN is an alphanumeric entity used to distinguish between the two vehicles. This differentiates the vehicles with indentical specifications. Correct and clear VIN is an leagal requiremnt. Any manufacturing error in this number would lead to leagal challenges. To avoid any quality issues with the VIN,  many industries prefer high automation which needs high investments. Simpler automation methods are cost effective but lacks robust qaulity inspection system. This projects provides the software prototype for such cost effective quality inspection system.
+
 ## Algorithm
 step-1 : Take the input image & relavant library image 
 
