@@ -3,9 +3,13 @@
  
 ## Algorithm
 step-1 : Take the input image & relavant library image 
+
 step-2 : Extract each letter from input image
+
 step-3 : apply FFT to the extracted letter and library image
+
 step-4 : apply ORB feature matching algorithm
+
 step-5 : define quality constraint to decide the product quality
 
 ## dependancies
