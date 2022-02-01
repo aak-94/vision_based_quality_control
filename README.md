@@ -12,6 +12,22 @@ step-4 : apply ORB feature matching algorithm
 
 step-5 : define quality constraint to decide the product quality
 
+## Repository structure
+Repo
+- Resuorces
+  - contains smaple images in .png format
+
+- src
+  - dataloader.cpp
+  - dataloader.h
+  - fft.cpp
+  - fft.h
+  -  image_processing.cpp
+  -  image_processing.h
+  -  main.cpp
+  -   utils.cpp
+  -    utils.h
+   
 ## dependancies
 Opencv
 
