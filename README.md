@@ -30,7 +30,11 @@ Repo
   -  main.cpp
   -   utils.cpp
   -    utils.h
-   
+  -    
+## Inference
+Following image shows the error detected in a good matches since there was a deviation in the input image.
+![image](https://github.com/aak-94/vision_based_quality_control/blob/main/Inference.png)
+
 ## dependancies
 Opencv
 
